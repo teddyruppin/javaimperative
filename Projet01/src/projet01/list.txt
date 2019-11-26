@@ -1,0 +1,4 @@
+list.txt
+package-info.java
+Programme.java
+TEST_GIT.txt
